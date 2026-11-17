@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+build/
+dist/
+*.apk
+.venv/
+assets/images/logo.png
+.vscode/

@@ -1,0 +1,15 @@
+[project]
+name = "VIBRALYS"
+version = "1.0.0"
+description = "VIBRALYS - Music app like Spotify, portrait, themeable, online"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "flet==0.25.2",
+    "requests"
+]
+
+[tool.flet]
+app_name = "VIBRALYS"
+app_short_name = "VIBRALYS"
+orientation = "portrait"
